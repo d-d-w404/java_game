@@ -14,4 +14,3 @@ i:跳斩
 
 thank you so much.
 change
-yes
